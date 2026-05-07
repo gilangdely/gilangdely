@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gilangdely" alt="gilangdely" /></a> </p>
 
-- 🔭 I’m currently working on **Nusareka**
+- 🔭 I’m currently working on **Ruang Setara**
 
 - 🌱 I’m currently learning **Express, Next, Firebase**
 
